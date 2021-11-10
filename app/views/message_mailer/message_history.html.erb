@@ -1,0 +1,5 @@
+<h1>Message#message_history</h1>
+
+<p>
+  <%= user.messages.where('created_at > ?', 1.week.ago).count  %>, find me in app/views/message_mailer/message_history.html.erb
+</p>
