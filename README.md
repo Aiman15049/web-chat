@@ -3,7 +3,7 @@
 
 ### Getting up and running
 
- - `$ git clone ghttps://github.com/Aiman15049/dopay_tech_test.git`
+ - `$ git clone https://github.com/Aiman15049/web-chat.git`
  - `$ cd web-chat`
  - `$ bundle`
  - `$ rails db:seed`
