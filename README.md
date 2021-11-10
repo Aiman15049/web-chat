@@ -13,7 +13,7 @@
 
 ### Features and how to use the app
 - Create multiple rooms and join them to chat in real time with your friends using action cable.
-- whereas 'localhost:3000/employees?offset=200' will give you a page of 100 starting from the 200th point
+- Click Join on the bottom of the page to enter a room.
 
 ### Running tests and linters
 
