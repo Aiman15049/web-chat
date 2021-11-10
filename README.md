@@ -6,7 +6,8 @@
  - `$ git clone https://github.com/Aiman15049/web-chat.git`
  - `$ cd web-chat`
  - `$ bundle`
- - `$ rails db:seed`
+ - `$ yarn install --check-files`
+ - `$ rails db:migrate`
  - `$ rails server`
  - Head to 'localhost:3000/'
 
@@ -20,5 +21,5 @@
 - `$ rspec`
 
 ### Nice to haves if I had more time
-- Properly implemented email sender as jobs not working, fixed tests, finished notification reader and unreads front end, wanted to
+- Properly implemented email sender as sidekiq cron jobs not working, fixed tests, finished notification reader and unreads front end, wanted to
 shade out joining any rooms except one as per the instructions on the test.
