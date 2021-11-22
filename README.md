@@ -1,6 +1,3 @@
-# Fonix tech test
-
-
 ### Getting up and running
 
  - `$ git clone https://github.com/Aiman15049/web-chat.git`
