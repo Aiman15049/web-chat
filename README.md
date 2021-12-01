@@ -11,6 +11,9 @@
 ### Features and how to use the app
 - Create multiple rooms and join them to chat in real time with your friends using action cable.
 - Click Join on the bottom of the page to enter a room.
+- Receive notifications.
+- See 'last read' message.
+
 
 ### Running tests and linters
 
