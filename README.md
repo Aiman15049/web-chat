@@ -7,6 +7,7 @@
  - `$ rails db:migrate`
  - `$ rails server`
  - Head to 'localhost:3000/'
+ - Open a new incognito tab for trying to use more than 1 account
 
 ### Features and how to use the app
 - Create multiple rooms and join them to chat in real time with your friends using action cable.
